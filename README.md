@@ -16,9 +16,9 @@
      <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   </div>
 </div>
-<br />
-<br />
-<div style="display: inline_block">
+<br>
+<br>
+<div align="center">
   <a href="https://www.linkedin.com/in/anabeatrizgn/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabeatrizgn&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatrizgn&layout=compact&langs_count=7&theme=dark"/>
