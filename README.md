@@ -1,6 +1,5 @@
 ## Ana Beatriz Gonçalves 🌿☕
-### Brazilian Full Stack Web Developer
-#### <b>Contact:</b>
+### Full Stack Web Developer
 <div style="display: inline_block">
   <div>
     <a href = "anabiagn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
